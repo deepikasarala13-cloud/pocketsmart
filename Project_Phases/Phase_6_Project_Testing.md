@@ -11,7 +11,7 @@
 |------|-------------|-------------------|----------|-----------|
 | 1 | Deepika S | AI-based expense tracking and automatic budget management | Budget Management | 1 |
 | 2 | Sharmila B | AI receipt scanning to extract and categorize expenses automatically | AI & Receipt Analysis | 1 |
-| 3 | Bhavana | Personalized budget recommendations and spending insights using AI | Smart Recommendations | 1 |
+| 3 | Bhavana G| Personalized budget recommendations and spending insights using AI | Smart Recommendations | 1 |
 # Phase 1: Brainstorming & Ideation
 
 - *Date:* 29 September 2026
