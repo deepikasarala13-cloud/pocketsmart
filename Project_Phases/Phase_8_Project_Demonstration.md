@@ -2,7 +2,7 @@
 
 ## Demonstration Deliverables
 - **Live Application URL:** https://pocketsmart-ai-ay9c.onrender.com
-- **Project Demonstration Video:** [Google Drive Public Link]
+- **Project Demonstration Video:** [https://drive.google.com/file/d/1N6ArYA2tcTaXxF3oYHdT8a7fr89mcBPr/view?usp=drivesdk]
 
 ## Video Walkthrough Outline
 1. **Introduction:** Presentation of team members and project title (*PocketSmart AI*).
